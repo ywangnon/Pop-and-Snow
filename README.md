@@ -1,2 +1,2 @@
-# Pop-Snow
+# Pop and Snow
 CAEmitterLayer을 이용한 애니메이션
